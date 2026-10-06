@@ -1,0 +1,11 @@
+node_modules
+.next
+.git
+tests
+docs
+*.log
+.env*
+PLAN.md
+CLAUDE.md
+AGENTS.md
+README.md
